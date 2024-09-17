@@ -1,6 +1,7 @@
 # Aplicatie HTTP - Client REST API
 
-Copyright 2023 - 2024 Ionita Alexandru-Andrei 322CA
+**Author**: Alexandru-Andrei Ionita    
+**Year**: 2023-2024 
 
 ## Descriere
 
